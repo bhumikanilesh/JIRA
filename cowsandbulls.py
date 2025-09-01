@@ -1,6 +1,8 @@
 # cows_bulls.py
 import random
 
+#HI
+
 def generate_secret():
     digits = list("0123456789")
     # ensure first digit is not '0' by picking first digit separately
@@ -38,6 +40,7 @@ def play():
 
 if __name__ == '__main__':
     play()
+
 
 
 
